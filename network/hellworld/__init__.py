@@ -1,1 +1,1 @@
-from hellworld.main import *
+from .main import CustomNeuralNetwork
